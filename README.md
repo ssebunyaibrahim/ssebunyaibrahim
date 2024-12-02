@@ -46,7 +46,7 @@ Here’s a selection of my recent projects. Click on the thumbnails to view the 
 
 Connect with me on social media or via email:
 
-<p align="left" style="display: flex; gap: 20px;">
+<p align="left" style="display: flex; gap: 50px;">
   <a href="https://www.linkedin.com/in/ibrahimssebunya/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> 
   </a> 
@@ -66,7 +66,7 @@ Connect with me on social media or via email:
 ## 🛠️ **Tools & Technologies I Use**
 
 Here are some of the tools, languages, and libraries I work with:  
-<p align="left" style="display: flex; gap: 20px;">
+<p align="left" style="display: flex; gap: 30px;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -90,6 +90,57 @@ Here are some of the tools, languages, and libraries I work with:
 
 ---
 
+## 📜 Certifications
+
+Here are some of the certifications I've earned:
+
+<div align="left">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ssebunyaibrahim/ssebunyaibrahim/blob/cc217d5d88c23ebe0f0010769b7e6129b395a911/CS50%20certificate.jpeg" target="_blank">
+        <img src="CS50 certificate.jpeg"  width="300" height = "200">
+        <p><b>CS50 Pogramming with python</b></p>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/ssebunyaibrahim/ssebunyaibrahim/blob/cc217d5d88c23ebe0f0010769b7e6129b395a911/CS50%20SQL%20IMAGE.png" target="_blank">
+        <img src="CS50 SQL IMAGE.png" width="300" height = "200">
+        <p><b>CS50 Databases with SQL</b></p>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/ssebunyaibrahim/ssebunyaibrahim/blob/cc217d5d88c23ebe0f0010769b7e6129b395a911/code%20camp%20certificate.PNG" target="_blank">
+        <img src="code camp certificate.PNG" alt="Certificate" width="300" height = "200">
+        <p><b>Data Analysis with Python</b></p>
+      </a>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <a href="https://github.com/ssebunyaibrahim/ssebunyaibrahim/blob/cc217d5d88c23ebe0f0010769b7e6129b395a911/Power%20BI.PNG" target="_blank">
+        <img src="Power BI.PNG" alt="CERTIFICATE" width="300" height = "200">
+        <p><b>Power BI Beginner to Pro</b></p>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/ssebunyaibrahim/ssebunyaibrahim/blob/cc217d5d88c23ebe0f0010769b7e6129b395a911/EXCELL%20Advanced%20exam.PNG" target="_blank">
+        <img src="EXCELL Advanced exam.PNG" width="300" height = "200">
+        <p><b>Excell Advanced User Exam</b></p>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/ssebunyaibrahim/ssebunyaibrahim/blob/cc217d5d88c23ebe0f0010769b7e6129b395a911/excell%20power%20user%20exam.PNG" target="_blank">
+        <img src="excell power user exam.PNG"  width="300" height = "200">
+        <p><b>Excell Power user exam</b></p>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
@@ -98,5 +149,4 @@ Here are some of the tools, languages, and libraries I work with:
 If you like what you see, feel free to give a ⭐ to my repositories!  
 
 ---
-
 
