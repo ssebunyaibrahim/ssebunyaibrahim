@@ -31,7 +31,7 @@ Here’s a selection of my recent projects. Click on the thumbnails to view the 
 <table align="centre">
   <tr>
     <td align="centre">
-      <a href="https://github.com/YourUsername/project1](https://github.com/ssebunyaibrahim/Asces-Sounds-Project" target="_blank">
+      <a href="https://github.com/ssebunyaibrahim/Asces-Sounds-Project.git" target="_blank">
         <img src="https://raw.githubusercontent.com/ssebunyaibrahim/Asces-Sounds-Project/refs/heads/main/Images/Full%20performance%20dashboard.png" alt="Project 1" width="300">
         <p><b>Asces Sounds Performance Analysis</b></p>
       </a>
