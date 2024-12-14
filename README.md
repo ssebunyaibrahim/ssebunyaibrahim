@@ -37,7 +37,7 @@ Here’s a selection of my recent projects. Click on the thumbnails to view the 
       </a>
     </td>
     <td align="centre">
-      <a href="https://github.com/ssebunyaibrahim/Asces-Sounds-Project.git](https://github.com/ssebunyaibrahim/Good-cabs-Project/blob/1a68f11bfd92951ca7e80f807082a354ecd133ff/README.md" target="_blank">
+      <a href="https://github.com/ssebunyaibrahim/Good-cabs-Project/blob/1a68f11bfd92951ca7e80f807082a354ecd133ff/README.md" target="_blank">
         <img src="https://github.com/ssebunyaibrahim/Good-cabs-Project/blob/1a68f11bfd92951ca7e80f807082a354ecd133ff/Images/Performance%20dashboard.png" alt="Project 2" width="300">
         <p><b>Good Cabs Performance Analysis</b></p>
       </a>
