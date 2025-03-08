@@ -45,7 +45,7 @@ Here’s a selection of my recent projects. Click on the thumbnails to view the 
     <td align="centre">
       <a href="https://github.com/ssebunyaibrahim/Lio-Jotstar-Merger-Analysis/blob/79c748f0df3f8d80f9655da008915ab404df9534/README.md" target="_blank">
         <img src="https://raw.githubusercontent.com/ssebunyaibrahim/Lio-Jotstar-Merger-Analysis/refs/heads/main/Images/Overviewf.png" alt="Project 2" width="300">
-        <p><b>Good Cabs Performance Analysis</b></p>
+        <p><b>Lio-Jotstar OTT Merger Preparation</b></p>
       </a>
     </td>
   </tr>
