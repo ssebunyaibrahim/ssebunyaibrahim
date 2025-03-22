@@ -62,10 +62,10 @@ Connect with me on social media or via email:
   <a href="https://www.linkedin.com/in/ibrahimssebunya/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> 
   </a> 
-  <a href="https://www.youtube.com/@AnalyticsLogisticsAgency/shorts" target="_blank" rel="noreferrer"> 
+  <a href="https://www.youtube.com/@Ibra.Davinci" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40" height="40"/> 
   </a> 
-  <a href="https://www.tiktok.com/@ala_davinci92" target="_blank" rel="noreferrer"> 
+  <a href="https://www.tiktok.com/@ibra.davinci" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok" width="40" height="40"/> 
   </a>
   <a href="mailto:ssebunyaibrahim92@gmail.com" target="_blank" rel="noreferrer"> 
